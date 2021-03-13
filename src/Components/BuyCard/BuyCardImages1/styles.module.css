@@ -1,0 +1,11 @@
+.images {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    align-items: end;
+    grid-column-gap: 16px;
+}
+
+.camImg {
+    height: 87px;
+    width: 39px;
+}

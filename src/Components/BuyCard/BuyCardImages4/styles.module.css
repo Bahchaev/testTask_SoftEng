@@ -1,0 +1,65 @@
+.buyCard {
+    justify-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+
+    box-sizing: border-box;
+    width: 214px;
+    height: 214px;
+    padding: 20px 0;
+
+    background: linear-gradient(180deg, #8CB928 0%, #45AE4D 100%);
+    border-radius: 18px;
+    box-shadow: 0px 25px 100px #48AE4B;
+}
+
+.images {
+    display: grid;
+    grid-template-rows: repeat(2, auto);
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-items: center;
+    grid-gap: 13px 16px;
+}
+
+.btvImg{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    width: 40px;
+    height: 32px;
+    justify-self: center;
+}
+
+.speedImg {
+    width: 46px;
+    height: 46px;
+}
+
+.camImg {
+    width: 33px;
+    height: 75px;
+}
+
+.wifiImg {
+    width: 43px;
+    height: 33px;
+}
+
+.buyCardText {
+    margin-top: 14px;
+    height: 41px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: white;
+}

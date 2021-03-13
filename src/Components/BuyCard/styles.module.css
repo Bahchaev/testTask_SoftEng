@@ -1,0 +1,48 @@
+.buyCard {
+    justify-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+
+    box-sizing: border-box;
+    width: 214px;
+    height: 214px;
+    padding: 20px 0;
+
+    background: linear-gradient(180deg, #8CB928 0%, #45AE4D 100%);
+    border-radius: 18px;
+    box-shadow: 0 25px 100px #48AE4B;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.textField {
+    margin-top: 14px;
+    height: 41px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.header,
+.text {
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+
+.text {
+    font-size: 20px;
+    line-height: 23px;
+}

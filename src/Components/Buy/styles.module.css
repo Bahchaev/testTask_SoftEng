@@ -5,5 +5,27 @@
 }
 
 .wrap {
-
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
 }
+
+.header {
+    font-family: Roboto Condensed, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #313334;
+    margin-bottom: 40px;
+}
+
+.buyCards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+
+
