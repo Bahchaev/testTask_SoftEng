@@ -1,0 +1,35 @@
+.rectangle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg {
+    width: 390px;
+    height: 620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #96C22B, #47B247);
+    border-radius: 18px;
+    box-shadow: 0 25px 100px #48AE4B;
+}
+
+.underText {
+    margin-top: 15px;
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    color: #747474;
+
+    cursor: pointer;
+}

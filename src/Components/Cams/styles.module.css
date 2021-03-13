@@ -1,0 +1,11 @@
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto 64px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

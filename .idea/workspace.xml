@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c240d2cf-05ce-499e-b398-ec40e2a11350" name="Default Changelist" comment="" />
+    <list default="true" id="c240d2cf-05ce-499e-b398-ec40e2a11350" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Buy/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Buy/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cam/cam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cam/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cam/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/headerText.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/ic-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/im1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Task1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Task2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/App/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -28,16 +47,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Cam" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Cam" />
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Task2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components" />
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Task2\Header" />
       <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\App" />
     </key>
   </component>
@@ -78,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615556007584</updated>
-      <workItem from="1615556008835" duration="3771000" />
+      <workItem from="1615556008835" duration="11164000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1615558129527</created>
@@ -98,6 +127,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="105" y="222" key="#ESLint" timestamp="1615603479714">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="105" y="222" key="#ESLint/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615603479714" />
     <state x="105" y="222" key="#Notifications" timestamp="1615559212193">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
