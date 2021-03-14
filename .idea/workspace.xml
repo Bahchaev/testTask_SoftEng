@@ -2,30 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c240d2cf-05ce-499e-b398-ec40e2a11350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/BuyCardImages1/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/BuyCardImages1/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/BuyCardImages2/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/BuyCardImages2/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/BuyCardImages3/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/BuyCardImages3/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/BuyCardImages4/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/BuyCardImages4/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/images/100.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/images/btv.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/images/cal.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/images/cam.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/images/wifi.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/BuyCard/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/PhoneForm/but-send.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/PhoneForm/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/PhoneForm/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/PhoneInput/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/PhoneInput/styles.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ReviewCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ReviewCard/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Reviews/avatar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Reviews/ic-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Reviews/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Reviews/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serverRequest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Buy/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Buy/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Buy/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Buy/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PhoneForm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PhoneForm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PhoneForm/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PhoneForm/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PhoneInput/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PhoneInput/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PhoneInput/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PhoneInput/styles.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Task2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Task2/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/PhoneForm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Reviews" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -68,19 +59,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\PhoneForm" />
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Buy\images" />
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components" />
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Cam" />
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Task2" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src" />
       <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\BuyCard" />
       <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Buy\images" />
       <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\BuyCard1" />
       <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components" />
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Task2\Header" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Reviews" />
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\PhoneForm" />
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Buy\images" />
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components" />
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Cam" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -120,7 +111,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615556007584</updated>
-      <workItem from="1615556008835" duration="24380000" />
+      <workItem from="1615556008835" duration="25355000" />
+      <workItem from="1615692838932" duration="18418000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1615558129527</created>
@@ -136,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615608581179</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added:&#10;&lt;Buy&gt;">
+      <created>1615649345787</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615649345787</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="added:&#10;&lt;Header&gt;&#10;&lt;Cams&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added:&#10;&lt;Header&gt;&#10;&lt;Cams&gt;" />
+    <MESSAGE value="added:&#10;&lt;Buy&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added:&#10;&lt;Buy&gt;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="105" y="222" key="#ESLint" timestamp="1615631173399">
@@ -156,18 +156,18 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="105" y="222" key="#Notifications/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615559212193" />
-    <state x="146" y="102" width="749" height="998" key="CommitChangelistDialog2" timestamp="1615608580335">
+    <state x="146" y="102" width="749" height="998" key="CommitChangelistDialog2" timestamp="1615649344903">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="146" y="102" width="749" height="998" key="CommitChangelistDialog2/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615608580335" />
+    <state x="146" y="102" width="749" height="998" key="CommitChangelistDialog2/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615649344903" />
     <state x="94" y="100" width="837" height="928" key="DiffContextDialog" timestamp="1615558621482">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="94" y="100" width="837" height="928" key="DiffContextDialog/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615558621482" />
-    <state x="293" y="305" key="FileChooserDialogImpl" timestamp="1615559357877">
+    <state x="293" y="305" key="FileChooserDialogImpl" timestamp="1615706979899">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="293" y="305" key="FileChooserDialogImpl/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615559357877" />
+    <state x="293" y="305" key="FileChooserDialogImpl/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615706979899" />
     <state x="22" y="206" key="SettingsEditor" timestamp="1615559800271">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>

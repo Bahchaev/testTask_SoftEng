@@ -3,6 +3,7 @@ import Header from "../Header";
 import Cams from "../Cams";
 import Buy from "../Buy";
 import PhoneForm from "../PhoneForm";
+import Reviews from "../Reviews";
 
 export default function Task2() {
     return (
@@ -11,6 +12,7 @@ export default function Task2() {
             <Cams/>
             <Buy/>
             <PhoneForm/>
+            <Reviews/>
         </div>
     )
 }

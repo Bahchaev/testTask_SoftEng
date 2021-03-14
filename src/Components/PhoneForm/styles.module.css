@@ -27,3 +27,15 @@
     text-align: center;
     color: #313334;
 }
+
+.sendBtn {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sendBtn:active {
+    transform: scale(0.95);
+}

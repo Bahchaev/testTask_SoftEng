@@ -1,0 +1,44 @@
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto 190px;
+}
+
+.wrap {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header {
+    margin-bottom: 40px;
+
+    font-family: Roboto Condensed, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #313334;
+}
+
+.reviewCards {
+    position: relative;
+    width: 100%;
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.downBtn {
+    background: none;
+    border: none;
+    z-index: 2;
+    position: relative;
+    bottom: 20px;
+    outline: none;
+}
