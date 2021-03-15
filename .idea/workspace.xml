@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c240d2cf-05ce-499e-b398-ec40e2a11350" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/HD.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/angle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/family.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/geo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/night.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/rec.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/ring.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/shoes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/storage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/Images/wifi-image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/popupCards-1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cams/popupCards-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Popup/closeBtn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Popup/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Popup/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/PopupCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/PopupCard/styles.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/PhoneForm/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PhoneForm/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cam/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cam/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cam/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cam/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cams/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cams/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Task2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Task2/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -22,7 +44,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1peuizJaKJYeYtM3jpFVUfcFcMm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Reviews" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Cams/Images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -45,19 +69,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Cams\Images" />
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Cams" />
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Popup" />
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Popup1" />
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Reviews" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Cams\Images" />
       <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src" />
       <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\BuyCard" />
       <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Buy\images" />
       <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\BuyCard1" />
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Reviews" />
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\PhoneForm" />
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Buy\images" />
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components" />
-      <recent name="C:\Users\wbahas\WebstormProjects\testtask_softeng\src\Components\Cam" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -98,7 +122,8 @@
       <option name="presentableId" value="Default" />
       <updated>1615556007584</updated>
       <workItem from="1615556008835" duration="25355000" />
-      <workItem from="1615692838932" duration="19104000" />
+      <workItem from="1615692838932" duration="19137000" />
+      <workItem from="1615813492020" duration="8518000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1615558129527</created>
@@ -128,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615721810223</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added:&#10;&lt;PhoneInput&gt;&#10;&lt;ReviewCard&gt;">
+      <created>1615730905809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615730905809</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,10 +182,10 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="105" y="222" key="#Notifications/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615559212193" />
-    <state x="527" y="98" width="749" height="998" key="CommitChangelistDialog2" timestamp="1615721809224">
+    <state x="527" y="98" width="749" height="998" key="CommitChangelistDialog2" timestamp="1615730905030">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="527" y="98" width="749" height="998" key="CommitChangelistDialog2/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615721809224" />
+    <state x="527" y="98" width="749" height="998" key="CommitChangelistDialog2/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615730905030" />
     <state x="94" y="100" width="837" height="928" key="DiffContextDialog" timestamp="1615558621482">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
@@ -166,9 +198,9 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="22" y="206" key="SettingsEditor/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615559800271" />
-    <state x="105" y="297" key="Vcs.Push.Dialog.v2" timestamp="1615559756885">
+    <state x="105" y="297" key="Vcs.Push.Dialog.v2" timestamp="1615730908392">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="105" y="297" key="Vcs.Push.Dialog.v2/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615559756885" />
+    <state x="105" y="297" key="Vcs.Push.Dialog.v2/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615730908392" />
   </component>
 </project>

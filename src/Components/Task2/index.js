@@ -4,6 +4,7 @@ import Cams from "../Cams";
 import Buy from "../Buy";
 import PhoneForm from "../PhoneForm";
 import Reviews from "../Reviews";
+import Popup from "../Popup";
 
 export default function Task2() {
     return (

@@ -1,0 +1,32 @@
+.container {
+    width: 311px;
+    min-height: 196px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 19px;
+    background: #FFFFFF;
+    border-radius: 18px;
+    align-items: center;
+}
+
+.popupCardText {
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: #313334;
+}
+
+.popupCardImg {
+    width: 126px;
+    height: 126px;
+    border-radius: 126px;
+    background: linear-gradient(180deg, #8BB928 0%, #45AE4D 99.99%, rgba(196, 196, 196, 0) 100%);
+    filter: drop-shadow(0px 10px 40px #45AE4D);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
