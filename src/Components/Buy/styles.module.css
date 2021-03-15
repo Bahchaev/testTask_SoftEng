@@ -23,9 +23,15 @@
 }
 
 .buyCards {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    /*display: grid;*/
+    /*grid-template-columns: repeat(4, 1fr);*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-gap: 25px;
+    box-sizing: border-box;
 }
+
 
 
 
