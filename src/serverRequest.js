@@ -32,7 +32,7 @@ async function patchRequest(url, data) {
             body: JSON.stringify(data)
         })
             .then(checkResponseStatus)
-            .then(getJsonObject)
+
     )
 }
 

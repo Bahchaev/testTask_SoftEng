@@ -28,14 +28,51 @@
     color: #313334;
 }
 
-.sendBtn {
+.successText {
+    font-family: Roboto Condensed, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #313334;
+}
+
+.sendBtn,
+.sendBtnDisabled {
+    background: none;
+    border: none;
+    outline: none;
     cursor: pointer;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+}
+
+.sendBtnDisabled {
+    width: 278px;
+    height: 60px;
+    background-color: #DAE0E5;
+    font-family: Roboto Condensed, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #FFFFFF;
 }
 
 .sendBtn:active {
     transform: scale(0.95);
+}
+
+.sendBtn:disabled {
+    cursor: auto;
+}
+
+.sendBtn:disabled:active {
+    transform: scale(1);
 }

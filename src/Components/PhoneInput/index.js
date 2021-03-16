@@ -2,9 +2,8 @@ import React, {useState} from 'react';
 import styles from './styles.module.css'
 import InputMask from "react-input-mask";
 
-export default function PhoneInput({setData}) {
+export default function PhoneInput({setIsValid, value, setValue}) {
 
-    const [value, setValue] = useState('');
     const [isFull, setIsFull] = useState(false);
     const [isCorrect, setIsCorrect] = useState(true);
     const [isFocused, setIsFocused] = useState(false);
@@ -12,18 +11,22 @@ export default function PhoneInput({setData}) {
         setValue(event.target.value);
         if (event.target.value[3] === "9" || event.target.value[3] === "_") {
             setIsCorrect(true);
-            setData(event.target.value)
         } else {
             setIsCorrect(false);
-            setData(undefined)
         }
 
         if (!event.target.value.includes("_")) {
             setIsFull(true);
-            setData(event.target.value)
         } else {
             setIsFull(false);
-            setData(undefined)
+        }
+        if (
+            (event.target.value[3] === "9" || event.target.value[3] === "_") &&
+            !event.target.value.includes("_")
+        ) {
+            setIsValid(true)
+        } else {
+            setIsValid(false)
         }
     };
 

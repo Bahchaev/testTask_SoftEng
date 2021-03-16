@@ -22,11 +22,14 @@
 }
 
 .closeBtn {
+    flex-shrink: 0;
     margin: 33px;
     width: 52px;
     height: 52px;
+    padding: 0;
     background: linear-gradient(180deg, #8CB928 0%, #45AE4D 100%);
     border-radius: 52px;
+    box-sizing: border-box;
     border:none;
     outline: none;
     display: flex;
@@ -36,8 +39,10 @@
 }
 
 .popupCards {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    max-width: 720px;
+    flex-wrap: wrap;
+    justify-content: center;
     grid-gap: 18px;
     padding: 40px;
     background: linear-gradient(180deg, #8CB928 0%, #45AE4D 100%);
