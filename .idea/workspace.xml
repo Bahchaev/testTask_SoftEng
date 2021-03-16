@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c240d2cf-05ce-499e-b398-ec40e2a11350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/PhoneForm/but-send-disabled.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/PhoneForm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PhoneForm/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/PhoneForm/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PhoneForm/styles.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/PhoneInput/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PhoneInput/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Popup/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Popup/styles.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serverRequest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serverRequest.js" afterDir="false" />
-    </list>
+    <list default="true" id="c240d2cf-05ce-499e-b398-ec40e2a11350" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +99,7 @@
       <workItem from="1615556008835" duration="25355000" />
       <workItem from="1615692838932" duration="19137000" />
       <workItem from="1615813492020" duration="10605000" />
-      <workItem from="1615899988273" duration="6456000" />
+      <workItem from="1615899988273" duration="7251000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1615558129527</created>
@@ -158,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615824097236</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fixed PhoneForm&#10;added some responsibility">
+      <created>1615906640143</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615906640143</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +170,8 @@
     <MESSAGE value="added:&#10;&lt;PhoneInput&gt;&#10;&lt;ReviewCard&gt;" />
     <MESSAGE value="added:&#10;&lt;Popup&gt;&#10;&lt;PopupCard&gt;&#10;some responsibility" />
     <MESSAGE value="added:&#10;some responsibility" />
-    <option name="LAST_COMMIT_MESSAGE" value="added:&#10;some responsibility" />
+    <MESSAGE value="fixed PhoneForm&#10;added some responsibility" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed PhoneForm&#10;added some responsibility" />
   </component>
   <component name="WindowStateProjectService">
     <state x="105" y="222" key="#ESLint" timestamp="1615631173399">
@@ -182,10 +182,10 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="105" y="222" key="#Notifications/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615559212193" />
-    <state x="527" y="98" width="749" height="998" key="CommitChangelistDialog2" timestamp="1615824096483">
+    <state x="527" y="98" width="749" height="998" key="CommitChangelistDialog2" timestamp="1615908175721">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="527" y="98" width="749" height="998" key="CommitChangelistDialog2/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615824096483" />
+    <state x="527" y="98" width="749" height="998" key="CommitChangelistDialog2/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615908175721" />
     <state x="94" y="100" width="837" height="928" key="DiffContextDialog" timestamp="1615558621482">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
@@ -198,10 +198,10 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="22" y="206" key="SettingsEditor/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615559800271" />
-    <state x="105" y="297" key="Vcs.Push.Dialog.v2" timestamp="1615824098691">
+    <state x="105" y="297" key="Vcs.Push.Dialog.v2" timestamp="1615906641726">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="105" y="297" key="Vcs.Push.Dialog.v2/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615824098691" />
+    <state x="105" y="297" key="Vcs.Push.Dialog.v2/0.0.2048.1122/2560.220.1920.1050@0.0.2048.1122" timestamp="1615906641726" />
     <state x="174" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1615904128988">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
