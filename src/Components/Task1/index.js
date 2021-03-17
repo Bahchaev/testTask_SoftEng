@@ -1,18 +1,18 @@
 import React from 'react';
+import styles from './styles.module.css'
 import * as json from '../../data.json'
 
 const data = json.default;
 
 export default function Task1() {
-    console.log(data);
     return (
-        <div className="App">
-            <table>
+        <div>
+            <table className={styles.table}>
                 <thead>
                 <tr>
-                    <th style={{width: "33%"}}>Name</th>
-                    <th style={{width: "33%"}}>Phone</th>
-                    <th style={{width: "33%"}}>Age</th>
+                    <th >Name</th>
+                    <th >Phone</th>
+                    <th >Age</th>
                 </tr>
                 </thead>
                 <tbody>

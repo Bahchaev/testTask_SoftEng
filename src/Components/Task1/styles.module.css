@@ -1,0 +1,15 @@
+.table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.table td {
+    padding: 0 20px;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+.table td:first-child {
+    text-align: left;
+}
+
